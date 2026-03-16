@@ -11,6 +11,11 @@ un blog increible para el curso de Git y GitHub de platzi
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible platzi team
+<<<<<<< HEAD
+=======
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
+>>>>>>> readme_mejorado
 
 
 **Recordar:** Esto solo fue con fines educativos, si quieres ver el curso realmente, ve al siguiente link: (https://platzi.com/cursos/git-github/readmemd-es-una-excelente-practica/)
